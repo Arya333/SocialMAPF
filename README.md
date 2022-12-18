@@ -94,7 +94,12 @@ while temp < num_obstacles:
         temp += 1
 ```
 
-Finally, 
+Finally, choose the number of simulation steps. The more steps, the longer the simulation will run for.
+
+```python
+# USER INPUT: maximum number of simulation steps
+max_sim_steps = 60
+```
 
 ## Examples
 
