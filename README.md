@@ -103,6 +103,18 @@ max_sim_steps = 60
 
 ## Examples
 
+Simulation without motion interpolation:
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/43790515/208286385-593e263f-c0ed-4dce-9770-ba67e0d35c11.gif)
+
+\
+\
+\
+Simulation with motion interpolation:
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/43790515/208286349-9b4420fd-9d50-48be-9cb9-bd2d3da9e7a0.gif)
+
+
 ## Acknowledgements
 
 ## Contributing
