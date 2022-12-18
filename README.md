@@ -40,6 +40,28 @@ To run a simulation, run ```main.py```
 
 ## Configuration
 
+First, set up the grid with the size of the grid (number of rows and columns) and how many agents should be in the grid.
+```python
+'''
+USER INPUT: number of rows for grid
+            number of columns for grid
+            number of agents
+'''
+num_rows = 10
+num_cols = 10
+num_agents = 20
+```
+
+Then, either randomize the goal coordinate or select your own goal coordinate as a list of size 2 (x & y value). The velocities in ```vels``` are used by the auction algorithm to determine which agent moves to the goal coordinate based on priority. Entries in ```vels``` can be changed so long as the size of the list is the same as ```num_agents```.
+
+```python
+# Velocity for each agent is its id in this case
+# Velocity is the attribute used in auction algorithm to determine which agent moves to the goal
+vels = [i for i in range(1, 1 + num_agents)]
+# USER INPUT: goal coordinate
+goal_coord = list(np.random.randint(1, num_rows, 2))
+```
+
 ## Examples
 
 ## Acknowledgements
