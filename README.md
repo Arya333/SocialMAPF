@@ -36,7 +36,7 @@ os.system("ffmpeg -i simulation.mp4 -crf 10 -vf \"minterpolate=fps=10:mi_mode=mc
 ```
 The first line converts a series of images (time steps of the simulation) in the ```images``` folder into an AVI video file. The second line creates an MP4 video file from the AVI file. The last line motion interpolates the MP4 file to make smoother transitions in the simulation. Parameters in these commands can be changed or added to alter the simulation video.
 
-To run a simulation, run ```main.py```
+To run a simulation, run ```main.py```. After running a simulation, delete all the images in the ```images``` folder as all the images in that folder are used to create the simulation video.
 
 ## Configuration
 
