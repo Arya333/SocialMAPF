@@ -13,6 +13,11 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+4. Follow <a href="https://phoenixnap.com/kb/ffmpeg-windows">these steps</a> to install <a href="https://ffmpeg.org/download.html">FFmpeg</a> on your system
+5. Clone the repository
+```
+git clone https://github.com/Arya333/SocialMAPF.git
+```
 
 ## Usage
 
