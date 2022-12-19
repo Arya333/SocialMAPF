@@ -128,6 +128,14 @@ Simulation with motion interpolation:
 
 ## Contributing
 
+Thank you so much for your interest in contributing to the project! We recognize that there are many ways to optimize our current algorithm and also add new features to better improve the efficiency and scalability of the path finder. We are always open to new ideas! If you would like to make changes to the project or add new features, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch to work on the feature
+3. Commit your changes
+4. Push your changes to the branch
+5. Create a pull request
+
 ## References
 
 <a id="1">[1]</a> Chandra, R., Maligi, R., Anantula, A., & Biswas, J.. (2022). SOCIALMAPF: Optimal and Efficient Multi-Agent Path Finding with Strategic Agents for Social Navigation. <https://doi.org/10.48550/arxiv.2210.08390>
