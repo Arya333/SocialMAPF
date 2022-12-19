@@ -114,7 +114,8 @@ Simulation with motion interpolation:
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/43790515/208286349-9b4420fd-9d50-48be-9cb9-bd2d3da9e7a0.gif)
 
-
-## Acknowledgements
-
 ## Contributing
+
+## References
+
+<a id="1">[1]</a> Chandra, R., Maligi, R., Anantula, A., & Biswas, J.. (2022). SOCIALMAPF: Optimal and Efficient Multi-Agent Path Finding with Strategic Agents for Social Navigation. <https://doi.org/10.48550/arxiv.2210.08390>
