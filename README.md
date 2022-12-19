@@ -1,5 +1,17 @@
 # SocialMAPF
 
+## Table of Contents
+
+- [SocialMAPF](#socialmapf)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Configuration](#configuration)
+  - [Examples](#examples)
+  - [Contributing](#contributing)
+  - [References](#references)
+
 ## About the Project
 
 ## Installation
