@@ -14,6 +14,8 @@
 
 ## About the Project
 
+A multi-agent path finding algorithm that accounts for agents' private incentives in constrained environments [[1]](#1). The path-planner utilizes artifical potential fields and resolves conflicts with an auction algorithm. Our approach maximizes agent utility and minimizes the overall time-to-goal of the entire system. The auction planner results in zero collisions and is 20x more efficient than search-based solvers.
+
 ## Installation
 
 1. Make sure you have installed <a href="https://www.python.org/downloads/">Python</a> on your system
